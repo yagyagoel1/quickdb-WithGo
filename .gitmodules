@@ -1,6 +1,6 @@
 [submodule "client"]
 	path = client
-	url = https://github.com/yagyagoel1/quickdbServer.git
+		url = https://github.com/yagyagoel1/quickdbClient.git
 [submodule "quickdbServer"]
 	path = quickdbServer
 	url = https://github.com/yagyagoel1/quickdbServer.git
